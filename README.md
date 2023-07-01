@@ -1,2 +1,2 @@
 # python-code-project-replit
-#This code is a Generation detector, it tells you which generation you were born in.
+#This list of python codes i wrote while on Leave in order to keep my brain active.
